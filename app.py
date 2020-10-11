@@ -8,11 +8,7 @@ Created on Fri Oct  9 21:40:43 2020
 
 import streamlit as st
 import pandas as pd
-import numpy as np
-import pydeck as pdk
 from scipy import stats
-import seaborn as sns
-import matplotlib.pyplot as plt
 import plotly.express as px
 
 # ----------------------------------------------------------------------------
