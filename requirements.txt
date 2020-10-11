@@ -21,7 +21,7 @@ enum-compat==0.0.3
 future==0.18.2
 idna==2.9
 importlib-metadata==1.6.0
-intel-numpy==1.14
+intel-numpy==1.14.3
 ipykernel==5.2.0
 ipython==7.13.0
 ipython-genutils==0.2.0
