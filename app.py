@@ -306,8 +306,8 @@ if page == 'Rankings':
         '''
         Take a look at the companies that are in the top and bottom {}%
         bucket across **all** 5 ESG raters based on the **ranked**
-        scores. ... If there is perfect agreement between the 5 ESG rates
-        each bucket would contain {:,.0f} companies. We see that ...
+        scores. For reference, if there is perfect agreement between the 5 ESG raters
+        each bucket would contain {:,.0f} companies.
         '''.format(top_bottom_quantile, perfect))
 
 
